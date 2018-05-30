@@ -1,4 +1,4 @@
-package epson.com.br.rewards.androidapp.instrumented.login;
+package androidapp.instrumented.login;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.List;
 
-import epson.com.br.rewards.androidapp.model.UserMap;
+import androidapp.model.UserMap;
 
 public class JsonTest {
 
