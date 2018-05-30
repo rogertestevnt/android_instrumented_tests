@@ -1,4 +1,4 @@
-package epson.com.br.rewards.androidapp.model
+package androidapp.model
 
 import java.util.ArrayList
 
