@@ -1,8 +1,8 @@
-package epson.com.br.rewards.androidapp.instrumented.login
+package androidapp.instrumented.login
 
 import android.support.test.filters.LargeTest
 import android.support.test.runner.AndroidJUnit4
-import epson.com.br.rewards.androidapp.utils.JsonFunctions
+import androidapp.utils.JsonFunctions
 import org.junit.Test
 import org.junit.runner.RunWith
 
