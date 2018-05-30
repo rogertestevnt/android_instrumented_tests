@@ -1,10 +1,10 @@
-package epson.com.br.rewards.androidapp.utils
+package androidapp.utils
 
 import android.support.test.InstrumentationRegistry
 import android.util.Log
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
-import epson.com.br.rewards.androidapp.model.UserMap
+import androidapp.model.UserMap
 import java.io.IOException
 import java.io.InputStream
 
